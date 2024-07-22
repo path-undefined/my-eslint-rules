@@ -34,6 +34,10 @@ export default [
 
     languageOptions: {
       parser: typescriptEslintParser,
+      parserOptions: {
+        project: "./tsconfig.json",
+        sourceType: "module",
+      },
     },
 
     rules: {
