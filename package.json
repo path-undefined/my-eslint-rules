@@ -1,0 +1,8 @@
+{
+  "name": "my-eslint-rules",
+  "version": "0.0.0",
+  "type": "module",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "scripts": {}
+}
