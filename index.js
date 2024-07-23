@@ -40,7 +40,7 @@ export default {
   "@typescript-eslint/consistent-type-imports": ["off"],
   "@typescript-eslint/default-param-last": ["off"],
   "@typescript-eslint/dot-notation": ["off"],
-  "@typescript-eslint/explicit-function-return-type": ["error"],
+  "@typescript-eslint/explicit-function-return-type": ["off"],
   "@typescript-eslint/explicit-member-accessibility": ["error"],
   "@typescript-eslint/explicit-module-boundary-types": ["off"],
   "@typescript-eslint/init-declarations": ["off"],
